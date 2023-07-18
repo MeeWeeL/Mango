@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mango</string>
+    <string name="title_authorization">Authorization</string>
+    <string name="title_registration">Registration</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_profile">Profile</string>
+    <string name="button_text_registration">Registration</string>
+    <string name="button_text_authorization">Authorization</string>
+</resources>
